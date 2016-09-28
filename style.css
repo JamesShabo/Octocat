@@ -33,7 +33,7 @@ li.octocat{
 
 ul{
 	display:flex;
-
+	flex-wrap: wrap;
 }
 
 
@@ -80,3 +80,5 @@ a{
 	padding:0px 4px 0px;
 	justify-content: flex-end;
 }
+
+
